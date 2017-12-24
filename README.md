@@ -1,3 +1,3 @@
 
 # Python interview
-[a link](https://github.com/jennydai2011/pythonProjects/interview/interviewQuestionNotes.md)
+[Interview Question Notes](https://github.com/jennydai2011/pythonProjects/blob/master/interview/interviewQuestionNotes.md)
